@@ -12,7 +12,7 @@ I've learned so much, but still, there's a lot to learn.
 
 #### Contacts
 Here you can find my Linkedin account: 
-<a href="www.linkedin.com/in/luca-masiero-900012296/">
+<a href="https://www.linkedin.com/in/luca-masiero-900012296/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 

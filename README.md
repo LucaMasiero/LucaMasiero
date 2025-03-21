@@ -4,7 +4,7 @@ I'm Luca, I'm a university student currently enrolled in the __Computer Science 
 What interests me the most in this huge and fascinating field are in particular Artificial Intelligence, Robotics and space exploration.
 
 Until now, my accademic journey allowed me to learn a lot of things, from engineering basics to programming languages and teamwork.
-I've learned so much, but still, there's a lot to learn.
+I've learned so much, but still, there's a lot more to discover.
 
 <img src="https://media.giphy.com/media/68uxgzDDzKz52V2fu6/giphy.gif" width="150" height="150"/>
 
